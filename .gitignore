@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Databases and Vector Stores
+vectorstore/
+
+# Local Environment variables
+.env
+
+# Large Clinical/Data Files
+data/patient medical report 1.pdf
+
+# OS/IDE settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
